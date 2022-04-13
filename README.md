@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Cybersecurity, Incident Response, Digital Forensics, SecDevOps
 - 🌱 I’m currently learning ...Python and Bash scripting for security and automation
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mvbruns@gmail.com
+- 📫 How to reach me ...
 
 <!---
 mvbruns/mvbruns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
